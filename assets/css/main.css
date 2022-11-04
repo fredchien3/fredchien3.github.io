@@ -61,10 +61,6 @@ input, select, textarea {
   appearance: none; }
 
 /* Basic */
-.bigger-icon {
-  font-size: 3em;
-  margin-right: 1em; }
-
 html {
   box-sizing: border-box; }
 

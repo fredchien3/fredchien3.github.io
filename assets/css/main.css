@@ -74,6 +74,11 @@ input, select, textarea {
 
 /* Basic */
 
+	.bigger-icon {
+		font-size: 3em;
+		margin-right: 1em;
+	}
+
 	html {
 		box-sizing: border-box;
 	}
@@ -2685,6 +2690,14 @@ input, select, textarea {
 				margin-bottom: 0;
 			}
 
+		.features article > div > p {
+			font-style: italic;
+		}
+
+		.features article > div > h5 {
+			font-weight: normal;
+		}
+
 /* Header */
 
 	#header {
@@ -2855,7 +2868,7 @@ input, select, textarea {
 			#footer .copyright li {
 				border-left: solid 1px #d4d4d4;
 				display: inline-block;
-				font-size: 0.8em;
+				font-size: 0.6em;
 				margin-left: 1em;
 				padding-left: 1em;
 			}
